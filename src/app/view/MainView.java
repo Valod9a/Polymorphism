@@ -14,14 +14,6 @@ public class MainView {
         return  "\nEnter 2 numbers: ";
     }
 
-    public String ResultMulti(){
-        return "\nResult of multiplying is ";
-    }
-
-    public String ResultAdd(){
-        return "\nResult of adding with coefficient is ";
-    }
-
     public String Exit(){
         return "\nGood bye.";
     }

@@ -18,11 +18,11 @@ public class AnswerChecker {
         switch (answer) {
             case "1" -> {
                 System.out.println(mv.Nums());
-                System.out.println(mv.ResultMulti() + round.Round(a.CalcResult(in.Nums())));
+                System.out.println(a.Result() + round.Round(a.CalcResult(in.Nums())));
             }
             case "2" -> {
                 System.out.println(mv.Nums());
-                System.out.println(mv.ResultAdd() + round.Round(b.CalcResult(in.Nums())));
+                System.out.println(b.Result() + round.Round(b.CalcResult(in.Nums())));
             }
             case "3" -> {
                 System.out.println(mv.Exit());

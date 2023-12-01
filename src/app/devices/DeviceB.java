@@ -13,4 +13,8 @@ public class DeviceB implements Device {
         }
         return sum * COEFFICIENT;
     }
+
+    public String Result(){
+        return "\nResult of adding with coefficient is ";
+    }
 }
