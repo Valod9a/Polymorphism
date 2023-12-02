@@ -1,6 +1,6 @@
-package app.devices;
+package app.Model.devices;
 
-import app.Interface.Device;
+import app.Model.Interface.Device;
 
 public class DeviceB implements Device {
 

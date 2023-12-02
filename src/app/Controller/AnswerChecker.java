@@ -1,7 +1,7 @@
 package app.Controller;
 
-import app.devices.DeviceA;
-import app.devices.DeviceB;
+import app.Model.devices.DeviceA;
+import app.Model.devices.DeviceB;
 import app.util.Rounder;
 import app.view.Inputer;
 import app.view.MainView;

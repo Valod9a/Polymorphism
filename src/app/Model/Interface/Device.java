@@ -1,4 +1,4 @@
-package app.Interface;
+package app.Model.Interface;
 
 public interface Device {
 
