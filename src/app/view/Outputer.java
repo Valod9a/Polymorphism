@@ -1,6 +1,6 @@
-package app.tool;
+package app.view;
 
-import app.view.MainView;
+import app.Controller.AnswerChecker;
 
 public class Outputer {
 

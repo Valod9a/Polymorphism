@@ -1,4 +1,4 @@
-package app.tool;
+package app.view;
 
 import java.util.Locale;
 import java.util.Scanner;

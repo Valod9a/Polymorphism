@@ -1,8 +1,9 @@
-package app.tool;
+package app.Controller;
 
 import app.devices.DeviceA;
 import app.devices.DeviceB;
 import app.util.Rounder;
+import app.view.Inputer;
 import app.view.MainView;
 
 public class AnswerChecker {

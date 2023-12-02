@@ -1,6 +1,6 @@
 package app;
 
-import app.tool.Outputer;
+import app.view.Outputer;
 
 public class Main {
 
